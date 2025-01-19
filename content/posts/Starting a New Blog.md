@@ -7,8 +7,5 @@ tags:
   - blog
 ---
 
-Testing the sync
-
-
-Does this change
+Testing the sync Does this change
 ![[Pasted image 20241130173526.png]]
