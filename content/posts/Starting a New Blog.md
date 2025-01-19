@@ -1,6 +1,6 @@
 ---
 title: Starting a New Blog
-date: 2024-11-30
+date: 2024-12-01
 draft: false
 tags:
   - galvin
@@ -8,4 +8,7 @@ tags:
 ---
 
 Testing the sync
-!![Image Description](/images/Pasted%20image%2020241130173526.png)
+
+
+Does this change
+![[Pasted image 20241130173526.png]]
