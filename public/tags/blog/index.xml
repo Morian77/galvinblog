@@ -6,17 +6,29 @@
     <description>Recent content in Blog on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Here is where it all begins</title>
+      <link>/posts/here-is-where-it-all-begins/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/here-is-where-it-all-begins/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>Starting a New Blog</title>
       <link>/posts/starting-a-new-blog/</link>
-      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/posts/starting-a-new-blog/</guid>
-      <description>&lt;p&gt;Testing the sync
-!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241130173526.png&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;Testing the sync
-!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241130173526.png&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Testing the sync&lt;/p&gt;
+&lt;p&gt;Does this change
+![[Pasted image 20241130173526.png]]&lt;/p&gt;</description>
+      <content>&lt;p&gt;Testing the sync&lt;/p&gt;
+&lt;p&gt;Does this change
+![[Pasted image 20241130173526.png]]&lt;/p&gt;
 </content>
     </item>
     
