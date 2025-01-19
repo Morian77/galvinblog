@@ -5,7 +5,7 @@ $sourcePath = "F:\Documents\My_Second_Brain\posts"
 $destinationPath = "F:\Documents\galvinblog\content\posts"
 
 # Set Github repo 
-$myrepo = git@github.com:Morian77/galvinblog.git
+$myrepo = "git@github.com:Morian77/galvinblog.git"
 
 # Set error handling
 $ErrorActionPreference = "Stop"
