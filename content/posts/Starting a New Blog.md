@@ -8,4 +8,4 @@ tags:
 ---
 
 Testing the sync Hey there again
-![[Pasted image 20241130173526.png]]
+!![Image Description](/images/Pasted%20image%2020241130173526.png)
