@@ -6,15 +6,16 @@
     <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Here is where it all begins</title>
       <link>/posts/here-is-where-it-all-begins/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/posts/here-is-where-it-all-begins/</guid>
-      <description></description>
-      <content></content>
+      <description>&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250121070006.png&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250121070006.png&#34;&gt;&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -23,12 +24,10 @@
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/posts/starting-a-new-blog/</guid>
-      <description>&lt;p&gt;Testing the sync&lt;/p&gt;
-&lt;p&gt;Does this change
-![[Pasted image 20241130173526.png]]&lt;/p&gt;</description>
-      <content>&lt;p&gt;Testing the sync&lt;/p&gt;
-&lt;p&gt;Does this change
-![[Pasted image 20241130173526.png]]&lt;/p&gt;
+      <description>&lt;p&gt;Testing the sync Hey there again
+!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241130173526.png&#34;&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;Testing the sync Hey there again
+!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241130173526.png&#34;&gt;&lt;/p&gt;
 </content>
     </item>
     
