@@ -1,6 +1,6 @@
 ---
 title: Starting a New Blog
-date: 2024-12-01
+date: 2025-01-21
 draft: false
 tags:
   - galvin
