@@ -17,4 +17,13 @@ Today I came across a laptop that was stuck in a after Windows 10 Update where n
 
 # How I fixed the issue
 
-The way to fix this issue was actually quite simple and I will help you through the process. 
+The way to fix this issue was actually quite simple and I will help you through the process.
+
+- The first thing you need to do is turn the computer off and on several times, before you get to the loading screen. This should start Windows diagnosing the computer and preparing Automatic Repair.
+
+!![Image Description](/images/Pasted%20image%2020250122075431.png)
+!![Image Description](/images/Pasted%20image%2020250122075757.png)
+
+- If you get the following screen, click on Advanced options.
+!![Image Description](/images/Pasted%20image%2020250122080132.png)
+
