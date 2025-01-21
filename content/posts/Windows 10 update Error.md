@@ -6,7 +6,7 @@ tags:
   - galvin
   - blog
 ---
-#### HOW TO FIX WINDOWS UPDATE BLUE SCREEN
+# HOW TO FIX WINDOWS UPDATE BLUE SCREEN
 
 Today I came across a laptop that was stuck in and update blue screen, where no amount of restarting, or rebooting, you would come back to the same point.
 
