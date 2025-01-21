@@ -6,10 +6,14 @@ tags:
   - galvin
   - blog
 ---
-# HOW TO FIX WINDOWS UPDATE BLUE SCREEN
+# How to fix a Blue Screen after Windows 10 Update
 
+## What is a Blue Screen after Windows 10 Update?
+- A Blue Screen after Windows 10 Update, is where Windows is trying to complete implementing the updates, but gets stuck in the process. You might see a screen much like the image below.
 
-Today I came across a laptop that was stuck in and update blue screen, where no amount of restarting, or rebooting, you would come back to the same point.
+!![Image Description](/images/Pasted%20image%2020250121234655.png)
+
+Today I came across a laptop that was stuck in a after Windows 10 Update where no amount of restarting, or rebooting, you would come back to the same point.
 
 # How I fixed the issue
 
