@@ -28,3 +28,10 @@ The way to fix this issue was actually quite simple and I will help you through 
 
 !![Image Description](/images/Pasted%20image%2020250122080132.png)
 
+!![Image Description](/images/Pasted%20image%2020250122081229.png)
+
+!![Image Description](/images/Pasted%20image%2020250122081035.png)
+
+!![Image Description](/images/Pasted%20image%2020250122081241.png)
+
+!![Image Description](/images/Pasted%20image%2020250122081254.png)
