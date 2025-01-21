@@ -8,16 +8,6 @@
     <language>en</language>
     <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Here is where it all begins</title>
-      <link>/posts/here-is-where-it-all-begins/</link>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/here-is-where-it-all-begins/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>Starting a New Blog</title>
       <link>/posts/starting-a-new-blog/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
@@ -29,6 +19,21 @@
       <content>&lt;p&gt;Today I am starting my Blog. I have been meaning to do this for some time.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;d like to thank NetworkChuck for his inspiration for doing this.&lt;/p&gt;
 &lt;p&gt;In this blog I will go through many things that I have learnt during my journey as a Jim&amp;rsquo;s IT tech and any hurdles that I may come across. Last year I had been doing a lot of installs for a few companies. The jobs involved were installing CleverLoggers and doing hot swap UPS battery replacements for Chemist Warehouse stores and changing over Kiosk screens for Hungry Jack&amp;rsquo;s. Next moth will be a big month of replacing media players in Woolworths stores.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Windows 10 update Error</title>
+      <link>/posts/windows-10-update-error/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/windows-10-update-error/</guid>
+      <description>&lt;h4 id=&#34;how-to-fix-windows-update-blue-screen&#34;&gt;HOW TO FIX WINDOWS UPDATE BLUE SCREEN&lt;/h4&gt;
+&lt;h6 id=&#34;today-i-came-across-a-laptop-that-was-stuck-in-and-update-blue-screen-where-no-amount-of-restarting-or-rebooting-you-would-come-back-to-the-same-point&#34;&gt;Today I came across a laptop that was stuck in and update blue screen, where no amount of restarting, or rebooting, you would come back to the same point.&lt;/h6&gt;
+&lt;h6 id=&#34;the-way-to-fix-this-issue-was-actually-quite-simple-and-i-will-help-you-through-the-process&#34;&gt;The way to fix this issue was actually quite simple and I will help you through the process.&lt;/h6&gt;</description>
+      <content>&lt;h4 id=&#34;how-to-fix-windows-update-blue-screen&#34;&gt;HOW TO FIX WINDOWS UPDATE BLUE SCREEN&lt;/h4&gt;
+&lt;h6 id=&#34;today-i-came-across-a-laptop-that-was-stuck-in-and-update-blue-screen-where-no-amount-of-restarting-or-rebooting-you-would-come-back-to-the-same-point&#34;&gt;Today I came across a laptop that was stuck in and update blue screen, where no amount of restarting, or rebooting, you would come back to the same point.&lt;/h6&gt;
+&lt;h6 id=&#34;the-way-to-fix-this-issue-was-actually-quite-simple-and-i-will-help-you-through-the-process&#34;&gt;The way to fix this issue was actually quite simple and I will help you through the process.&lt;/h6&gt;
 </content>
     </item>
     
