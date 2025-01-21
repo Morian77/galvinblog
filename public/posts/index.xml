@@ -8,17 +8,6 @@
     <language>en</language>
     <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>/posts/hello-world/</link>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hello-world/</guid>
-      <description>&lt;p&gt;Here we go again&lt;/p&gt;</description>
-      <content>&lt;p&gt;Here we go again&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>Here is where it all begins</title>
       <link>/posts/here-is-where-it-all-begins/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
@@ -29,30 +18,17 @@
     </item>
     
     <item>
-      <title>Test</title>
-      <link>/posts/test/</link>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/test/</guid>
-      <description>&lt;p&gt;Hello&lt;/p&gt;
-&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250121072957.png&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;Hello&lt;/p&gt;
-&lt;p&gt;!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250121072957.png&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>Starting a New Blog</title>
       <link>/posts/starting-a-new-blog/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       
       <guid>/posts/starting-a-new-blog/</guid>
-      <description>&lt;p&gt;Testing the sync Hey there again
-!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241130173526.png&#34;&gt;
-!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250121082350.png&#34;&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;Testing the sync Hey there again
-!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020241130173526.png&#34;&gt;
-!&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250121082350.png&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Today I am starting my Blog. I have been meaning to do this for some time.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d like to thank NetworkChuck for his inspiration for doing this.&lt;/p&gt;
+&lt;p&gt;In this blog I will go through many things that I have learnt during my journey as a Jim&amp;rsquo;s IT tech and any hurdles that I may come across. Last year I had been doing a lot of installs for a few companies. The jobs involved were installing CleverLoggers and doing hot swap UPS battery replacements for Chemist Warehouse stores and changing over Kiosk screens for Hungry Jack&amp;rsquo;s. Next moth will be a big month of replacing media players in Woolworths stores.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Today I am starting my Blog. I have been meaning to do this for some time.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d like to thank NetworkChuck for his inspiration for doing this.&lt;/p&gt;
+&lt;p&gt;In this blog I will go through many things that I have learnt during my journey as a Jim&amp;rsquo;s IT tech and any hurdles that I may come across. Last year I had been doing a lot of installs for a few companies. The jobs involved were installing CleverLoggers and doing hot swap UPS battery replacements for Chemist Warehouse stores and changing over Kiosk screens for Hungry Jack&amp;rsquo;s. Next moth will be a big month of replacing media players in Woolworths stores.&lt;/p&gt;
 </content>
     </item>
     
