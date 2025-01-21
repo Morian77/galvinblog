@@ -25,5 +25,6 @@ The way to fix this issue was actually quite simple and I will help you through 
 !![Image Description](/images/Pasted%20image%2020250122075757.png)
 
 - If you get the following screen, click on Advanced options.
+
 !![Image Description](/images/Pasted%20image%2020250122080132.png)
 
