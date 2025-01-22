@@ -26,12 +26,14 @@ The way to fix this issue was actually quite simple and I will help you through 
 - If you get the following screen, click on Advanced options.
 
 ![Image Description](/images/Pasted%20image%2020250122080132.png)
-
+- When you get to this screen you need to click on Troubleshoot to enter the Advanced Options menu.
 ![Image Description](/images/Pasted%20image%2020250122081229.png)
-
+- From here you are going to click on Startup Settings, then click on Restart.
 ![Image Description](/images/Pasted%20image%2020250122081035.png)
 
 ![Image Description](/images/Pasted%20image%2020250122081241.png)
-
+- Now that your computer has Restarted to this menu, you need to press 4 on your keyboard to enter Safe Mode.
 ![Image Description](/images/Pasted%20image%2020250122081254.png)
-
+- From here you will see a similar update screen, but it will be removing the update and cleaning up the install.
+- After the update Blue Screen Windows will launch in Safe Mode.
+- Once the system has loaded, you can Restart your computer again and it should load correctly.

@@ -53,10 +53,20 @@
 &lt;li&gt;If you get the following screen, click on Advanced options.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122080132.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122081229.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122081035.png&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When you get to this screen you need to click on Troubleshoot to enter the Advanced Options menu.
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122081229.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;From here you are going to click on Startup Settings, then click on Restart.
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122081035.png&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122081241.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122081254.png&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Now that your computer has Restarted to this menu, you need to press 4 on your keyboard to enter Safe Mode.
+&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122081254.png&#34;&gt;&lt;/li&gt;
+&lt;li&gt;From here you will see a similar update screen, but it will be removing the update and cleaning up the install.&lt;/li&gt;
+&lt;li&gt;After the update Blue Screen Windows will launch in Safe Mode.&lt;/li&gt;
+&lt;li&gt;Once the system has loaded, you can Restart your computer again and it should load correctly.&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     
