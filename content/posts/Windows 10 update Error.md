@@ -14,7 +14,6 @@ tags:
 ![Image Description](/images/Pasted%20image%2020250121234655.png)
 
 Today I came across a laptop that was stuck in a after Windows 10 Update where no amount of restarting, or rebooting, you would come back to the same point.
-
 # How I fixed the issue
 
 The way to fix this issue was actually quite simple and I will help you through the process.
