@@ -1,12 +1,12 @@
 ---
-title: New Post
+title: This is my New Post
 date: 2025-04-17
 draft: false
 tags:
   - galvin
   - blog
 created: 2025-04-17T06:57
-updated: 2025-04-17T07:58
+updated: 2025-04-17T08:05
 ---
 I need to make sure this works
 
