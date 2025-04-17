@@ -8,6 +8,31 @@
     <language>en</language>
     <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>This is my New Post</title>
+      <link>/posts/this-is-my-new-post/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/this-is-my-new-post/</guid>
+      <description>&lt;p&gt;I need to make sure this works&lt;/p&gt;
+&lt;p&gt;sdafkoplewkfopajef
+AS&amp;quot;DF
+asldpfgklsdgldaf[pgkdsf
+g\sdfg
+p[dsfgk
+[pksdfg[oksd
+fgoskdf[ogksdfogkj&lt;/p&gt;</description>
+      <content>&lt;p&gt;I need to make sure this works&lt;/p&gt;
+&lt;p&gt;sdafkoplewkfopajef
+AS&amp;quot;DF
+asldpfgklsdgldaf[pgkdsf
+g\sdfg
+p[dsfgk
+[pksdfg[oksd
+fgoskdf[ogksdfogkj&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Starting a New Blog</title>
       <link>/posts/starting-a-new-blog/</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
@@ -34,36 +59,36 @@
 &lt;ul&gt;
 &lt;li&gt;A Blue Screen after Windows 10 Update, is where Windows is trying to complete implementing the updates, but gets stuck in the process. You might see a screen much like the image below.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250121234655.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/Pasted%20image%2020250121234655.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Today I came across a laptop that was stuck in a after Windows 10 Update where no amount of restarting, or rebooting, you would come back to the same point.&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;how-to-fix-a-blue-screen-after-windows-10-update&#34;&gt;How to fix a Blue Screen after Windows 10 Update&lt;/h1&gt;
 &lt;h2 id=&#34;what-is-a-blue-screen-after-windows-10-update&#34;&gt;What is a Blue Screen after Windows 10 Update?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;A Blue Screen after Windows 10 Update, is where Windows is trying to complete implementing the updates, but gets stuck in the process. You might see a screen much like the image below.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250121234655.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/Pasted%20image%2020250121234655.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Today I came across a laptop that was stuck in a after Windows 10 Update where no amount of restarting, or rebooting, you would come back to the same point.&lt;/p&gt;
 &lt;h1 id=&#34;how-i-fixed-the-issue&#34;&gt;How I fixed the issue&lt;/h1&gt;
 &lt;p&gt;The way to fix this issue was actually quite simple and I will help you through the process.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The first thing you need to do is turn the computer off and on several times, before you get to the loading screen. This should start Windows diagnosing the computer and preparing Automatic Repair.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122075431.png&#34;&gt;
-&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122075757.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/Pasted%20image%2020250122075431.png&#34; alt=&#34;Image Description&#34;&gt;
+&lt;img src=&#34;/images/Pasted%20image%2020250122075757.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;If you get the following screen, click on Advanced options.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122080132.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/Pasted%20image%2020250122080132.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;When you get to this screen you need to click on Troubleshoot to enter the Advanced Options menu.
-&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122081229.png&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;/images/Pasted%20image%2020250122081229.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/li&gt;
 &lt;li&gt;From here you are going to click on Startup Settings, then click on Restart.
-&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122081035.png&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;/images/Pasted%20image%2020250122081035.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122081241.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/Pasted%20image%2020250122081241.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Now that your computer has Restarted to this menu, you need to press 4 on your keyboard to enter Safe Mode.
-&lt;img alt=&#34;Image Description&#34; src=&#34;/images/Pasted%20image%2020250122081254.png&#34;&gt;&lt;/li&gt;
+&lt;img src=&#34;/images/Pasted%20image%2020250122081254.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/li&gt;
 &lt;li&gt;From here you will see a similar update screen, but it will be removing the update and cleaning up the install.&lt;/li&gt;
 &lt;li&gt;After the update Blue Screen Windows will launch in Safe Mode.&lt;/li&gt;
 &lt;li&gt;Once the system has loaded, you can Restart your computer again and it should load correctly.&lt;/li&gt;
